@@ -31,3 +31,4 @@ https://www.google.fi/?q=scalable+architecture+patterns
 ## Performance testing
 
 - Taurus nice tool (wrapper) http://gettaurus.org/
+- Comparison of top 4 tools https://blazemeter.com/blog/open-source-load-testing-tools-which-one-should-you-use
