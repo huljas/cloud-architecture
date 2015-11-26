@@ -28,4 +28,6 @@ https://www.google.fi/?q=scalable+architecture+patterns
 - Elasticache (redis) + ruby http://www.nateware.com/real-time-leaderboards-with-elasticache-and-redis-objects.html
 - Elasticache leaderboard example http://docs.aws.amazon.com/AmazonElastiCache/latest/UserGuide/UseCases.html
 
+## Performance testing
 
+- Taurus nice tool (wrapper) http://gettaurus.org/
