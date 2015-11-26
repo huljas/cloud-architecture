@@ -13,4 +13,16 @@ https://www.google.fi/?q=scalable+architecture+patterns
 
 ## AWS setup
 
+- http://highscalability.com/blog/2015/10/19/segment-rebuilding-our-infrastructure-with-docker-ecs-and-te.html
+
+## Chat server real world examples
+
+- LoL: https://www.youtube.com/watch?v=_jsMpmWaq7I
+- FB: http://www.erlang-factory.com/conference/SFBayAreaErlangFactory2009/speakers/EugeneLetuchy
+- WhatsApp: https://www.youtube.com/watch?v=c12cYAUTXXs
+
+## Leaderboard examples
+
+- Redis + python https://github.com/agoragames/leaderboard-python
+
 
