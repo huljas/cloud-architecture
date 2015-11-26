@@ -1,6 +1,6 @@
 # Cloud architecture
 
-## Scalable architecture patterns
+## Scalable architecture
 
 https://www.google.fi/?q=scalable+architecture+patterns
 
