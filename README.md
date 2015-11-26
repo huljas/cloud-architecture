@@ -4,12 +4,12 @@
 
 https://www.google.fi/?q=scalable+architecture+patterns
 
-- https://msdn.microsoft.com/en-us/library/dn600223.aspx
-- https://aws.amazon.com/architecture/
-- http://highscalability.com/blog/2011/11/7/10-core-architecture-pattern-variations-for-achieving-scalab.html
-- http://srinathsview.blogspot.fi/2011/10/list-of-known-scalable-architecture.html
-- http://www.infoq.com/news/2014/04/Cloud-Architecture-Patterns
-- http://www.slideshare.net/techdude/scalable-web-architectures-common-patterns-and-approaches
+- MSDN https://msdn.microsoft.com/en-us/library/dn600223.aspx
+- AWS architecture https://aws.amazon.com/architecture/
+- 10 core patterns http://highscalability.com/blog/2011/11/7/10-core-architecture-pattern-variations-for-achieving-scalab.html
+- List of architecture patterns http://srinathsview.blogspot.fi/2011/10/list-of-known-scalable-architecture.html
+- Cloud architecture patterns http://www.infoq.com/news/2014/04/Cloud-Architecture-Patterns
+- Web architecture patterns (old) http://www.slideshare.net/techdude/scalable-web-architectures-common-patterns-and-approaches
 
 ## AWS setup
 
@@ -18,9 +18,9 @@ https://www.google.fi/?q=scalable+architecture+patterns
 
 ## Chat server real world examples
 
-- LoL: https://www.youtube.com/watch?v=_jsMpmWaq7I
-- FB: http://www.erlang-factory.com/conference/SFBayAreaErlangFactory2009/speakers/EugeneLetuchy
-- WhatsApp: https://www.youtube.com/watch?v=c12cYAUTXXs
+- LoL https://www.youtube.com/watch?v=_jsMpmWaq7I
+- FB http://www.erlang-factory.com/conference/SFBayAreaErlangFactory2009/speakers/EugeneLetuchy
+- WhatsApp https://www.youtube.com/watch?v=c12cYAUTXXs
 
 ## Leaderboard examples
 
