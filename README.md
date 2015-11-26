@@ -24,5 +24,6 @@ https://www.google.fi/?q=scalable+architecture+patterns
 ## Leaderboard examples
 
 - Redis + python https://github.com/agoragames/leaderboard-python
+- Elasticache (redis) + ruby http://www.nateware.com/real-time-leaderboards-with-elasticache-and-redis-objects.html
 
 
