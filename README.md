@@ -16,7 +16,7 @@ https://www.google.fi/?q=scalable+architecture+patterns
 - AWS with docker http://highscalability.com/blog/2015/10/19/segment-rebuilding-our-infrastructure-with-docker-ecs-and-te.html
 - AWS managed NoSQL http://aws-de-media.s3.amazonaws.com/images/AWS%20Summit%20Berlin%202015/Praesentationen_Berlin_Summit_2015/Praesentationen_Berlin_Summit_2015_startup/1h50_STARTUP_DynamoDB_ElastiCache_Redis.pdf
 
-## Chat server real world examples
+## Massive scale chat server examples
 
 - LoL https://www.youtube.com/watch?v=_jsMpmWaq7I
 - FB http://www.erlang-factory.com/conference/SFBayAreaErlangFactory2009/speakers/EugeneLetuchy
