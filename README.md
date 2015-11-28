@@ -22,6 +22,7 @@ https://www.google.fi/?q=scalable+architecture+patterns
 - DCOS https://mesosphere.com/
 - Cloud66 Management service http://www.cloud66.com/
 - Kubernetes https://github.com/kubernetes/kubernetes
+- Tools top list https://elasticbox.com/blog/devops-open-source-tools/
 
 ## Chat server examples
 
