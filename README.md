@@ -11,12 +11,12 @@ https://www.google.fi/?q=scalable+architecture+patterns
 - Cloud architecture patterns http://www.infoq.com/news/2014/04/Cloud-Architecture-Patterns
 - Web architecture patterns (old) http://www.slideshare.net/techdude/scalable-web-architectures-common-patterns-and-approaches
 
-## AWS
+## AWS & Docker
 
 - AWS with docker http://highscalability.com/blog/2015/10/19/segment-rebuilding-our-infrastructure-with-docker-ecs-and-te.html
 - AWS managed NoSQL http://aws-de-media.s3.amazonaws.com/images/AWS%20Summit%20Berlin%202015/Praesentationen_Berlin_Summit_2015/Praesentationen_Berlin_Summit_2015_startup/1h50_STARTUP_DynamoDB_ElastiCache_Redis.pdf
 - Redis use cases http://oldblog.antirez.com/post/take-advantage-of-redis-adding-it-to-your-stack.html
-
+- Docker Machine, Swarm and Compose https://blog.docker.com/2015/02/orchestrating-docker-with-machine-swarm-and-compose/
 ## Dev ops
 
 - DCOS https://mesosphere.com/
